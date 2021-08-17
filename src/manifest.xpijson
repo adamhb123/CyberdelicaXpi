@@ -1,0 +1,34 @@
+##  General  ##
+BLACK="rgba(0 ,0 ,0 ,1)"
+WHITE="rgba(255, 255, 255, 1)"
+TRANSPARENT="rgba(0, 0, 0, 0)"
+
+###  Style Definition  ###
+DARK_PURPLE="rgba(97, 0, 128, 1)"
+DARK_PURPLE_2="rgba(103, 0, 146, 1)"
+HOT_PINK="rgba(255, 20, 191, 1)"
+
+#XPIJSON
+{
+  "name": "Cyberdelica",
+  "manifest_version": 2,
+  "version": "1.2",
+  "theme": {
+    "images": {
+      "theme_frame": "fractal.jpg"
+    },
+    "colors": {
+      "frame": $DARK_PURPLE,
+      "frame_inactive": $BLACK,
+      "tab_background_text": $WHITE,
+      "toolbar": $TRANSPARENT,
+      "bookmark_text": $WHITE,
+      "toolbar_field": "rgba(0, 0, 0, .65)",
+      "toolbar_field_text": $WHITE,
+      "toolbar_field_highlight": $DARK_PURPLE,
+      "tab_line": $WHITE,
+      "popup_border":$DARK_PURPLE_2,
+      "icons_attention":$HOT_PINK
+    }
+  }
+}
