@@ -1,0 +1,21 @@
+{
+  "name": "Cyberdelica",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "fractal.jpg"
+    },
+    "colors": {
+      "frame": "rgba(0, 0, 0, 1)",
+      "frame_inactive": "rgba(138, 0, 255, 1)",
+      "tab_background_text": "rgba(255, 255, 255, 1)",
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "bookmark_text": "rgba(255, 255, 255, 1)",
+      "toolbar_field": "rgba(0, 0, 0, .65)",
+      "toolbar_field_text": "rgba(255, 255, 255, 1)",
+      "tab_line": "rgba(255, 255, 255, 1)",
+      "popup_border":"rgba(75,0,130,1)"
+    }
+  }
+}
