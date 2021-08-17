@@ -1,6 +1,6 @@
 # Cyberdelica.xpi
 ## Introduction
-This is a Firefox theme. Heavily (and I mean, HEAVILY) based on [fractal summer colors](https://addons.mozilla.org/en-US/firefox/addon/fractal-summer-colors/) by [candelora](https://addons.mozilla.org/en-US/firefox/user/5437627/).
+This is a Firefox theme. Heavily (and I mean, HEAVILY) based on [fractal summer colors](https://addons.mozilla.org/en-US/firefox/addon/fractal-summer-colors/) by [candelora](https://addons.mozilla.org/en-US/firefox/user/5437627/)
 
 Credit for the theme image goes to [SuicideBySafetyPin](https://outgoing.prod.mozaws.net/v1/1d579aafdcf1863f007f37b28b600586e7a597090c58bfb0dc5a16ce6de024f3/https%3A//www.deviantart.com/suicidebysafetypin/art/Summer-Colors-217073954)
 
