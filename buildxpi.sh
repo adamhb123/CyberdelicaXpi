@@ -1,2 +1,2 @@
-zip -j ./build/cyberdelica.xpi ./src/*
+zip -j ./dist/cyberdelica.xpi ./src/*
 

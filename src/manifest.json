@@ -1,14 +1,14 @@
 {
   "name": "Cyberdelica",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "theme": {
     "images": {
       "theme_frame": "fractal.jpg"
     },
     "colors": {
       "frame": "rgba(0, 0, 0, 1)",
-      "frame_inactive": "rgba(138, 0, 255, 1)",
+      "frame_inactive": "rgba(75, 0, 138, 1)",
       "tab_background_text": "rgba(255, 255, 255, 1)",
       "toolbar": "rgba(0, 0, 0, 0)",
       "bookmark_text": "rgba(255, 255, 255, 1)",
